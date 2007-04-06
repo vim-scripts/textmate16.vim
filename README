@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1855
+
+Color scheme to emulate the default color scheme from textmate for ruby scripts. Designed to work with an xterm with 16 colors. The background color is not changed and the intention is that the color scheme be used with a dark back ground, so the user should change the background to a dark gray or black. If you are using the gui then use the vibrantink.vim color scheme instead.
